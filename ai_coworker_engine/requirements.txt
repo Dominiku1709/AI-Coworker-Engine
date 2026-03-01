@@ -1,0 +1,10 @@
+fastapi
+streamlit
+uvicorn
+google-generativeai>=0.4.1
+dotenv
+langchain
+langgraph
+faiss-cpu
+python-dotenv
+pydantic
